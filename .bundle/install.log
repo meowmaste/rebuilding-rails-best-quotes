@@ -11,3 +11,6 @@ I, [2014-02-16T19:06:29.362979 #36851]  INFO -- : 0:  bundler (1.5.1) from /User
 I, [2014-02-16T19:12:17.649734 #36964]  INFO -- : 0:  rack (1.5.2) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
 I, [2014-02-16T19:12:17.702111 #36964]  INFO -- : 0:  rulers (0.0.2) from /Users/joslynrosbrook/Desktop/CodeFellows/rebuilding-rails/rulers/rulers.gemspec
 I, [2014-02-16T19:12:17.702707 #36964]  INFO -- : 0:  bundler (1.5.1) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-21T08:55:25.147989 #1807]  INFO -- : 0:  rack (1.5.2) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-21T08:55:25.186110 #1807]  INFO -- : 0:  rulers (0.0.2) from /Users/joslynrosbrook/Desktop/CodeFellows/rebuilding-rails/rulers/rulers.gemspec
+I, [2014-02-21T08:55:25.186442 #1807]  INFO -- : 0:  bundler (1.5.1) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
