@@ -4,6 +4,15 @@ class QuotesController < Rulers::Controller
     render :index, :quotes => quotes 
   end
 
+  def update
+    if env["REQUEST_METHOD"] == "POST"
+      quote = Rulers::Model::FileModel.find(1)
+      quote["submitter"] = "Joslyn"
+      m = FileModel.save quote
+    end
+    render :quote, :obj => quote
+  end
+
   def a_quote
     render :a_quote, :noun => :winking 
   end
