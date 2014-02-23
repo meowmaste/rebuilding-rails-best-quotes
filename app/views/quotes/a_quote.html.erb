@@ -5,5 +5,11 @@
 </p>
 
 <p>
-  Ruby version <%= RUBY_VERSION %>
+  Ruby version <%= env["PATH_INFO"] %>
+</p>
+<p>
+  User Agent <%= env["HTTP_USER_AGENT"] %>
+</p>
+<p>
+  Server Software <%= env["SERVER_SOFTWARE"] %>
 </p>
