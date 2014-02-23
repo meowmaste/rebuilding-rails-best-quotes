@@ -10,7 +10,7 @@ class QuotesController < Rulers::Controller
       quote["submitter"] = "Joslyn"
       m = FileModel.save quote
     end
-    render :quote, :obj => quote
+    render :quote, :obj => m
   end
 
   def a_quote
